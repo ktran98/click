@@ -1,13 +1,11 @@
 //declare samecolor() here
-function firstdiv(){
-    let doc = document;
-    let section = doc.querrySelector("#samecolor > div");
+function samecolor(){
+    let color = "#00900"
 
     div.style.backgroundColor
-    div.style.
+
 }
 //declare diffcolor() here
-function seconddiv(){
-    let doc = document;
-    let section = doc.querrySelector("differentcolo > div")
+function diffcolor(){
+    let color = "#9933s00"
 }

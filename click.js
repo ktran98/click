@@ -11,11 +11,15 @@ function samecolor(){
 }
 //declare diffcolor() here
 function diffcolor(){
-  const doc = document;
+    const doc = document;
     let color = "#9933s00"
 
     let divs = doc.QuerrySelector("#diffcolor div");
 
-    
+    divs[0].style.backgroundColor = blre;
+    divs[0].style.backgroundColor = green;
+    divs[0].style.height = 
+
+
 
 }
